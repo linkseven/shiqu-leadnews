@@ -5,6 +5,7 @@
 2. nginx反向代理服务器
 3. 前端页面资源
 4. 数据库修改，新增ap_user_article表
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 -- ----------------------------

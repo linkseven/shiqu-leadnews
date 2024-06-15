@@ -1,0 +1,3 @@
+com\shiqu\app\gateway\filter\AuthorizeFilter.class
+com\shiqu\app\gateway\AppGatewayApplication.class
+com\shiqu\app\gateway\utils\AppJwtUtil.class

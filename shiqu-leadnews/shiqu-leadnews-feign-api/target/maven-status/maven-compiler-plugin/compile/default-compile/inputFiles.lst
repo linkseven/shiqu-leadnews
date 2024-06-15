@@ -1,0 +1,5 @@
+D:\news\shiqu-leadnews\shiqu-leadnews-feign-api\src\main\java\com\shiqu\apis\schedule\IScheduleClient.java
+D:\news\shiqu-leadnews\shiqu-leadnews-feign-api\src\main\java\com\shiqu\apis\behavior\IBehaviorClient.java
+D:\news\shiqu-leadnews\shiqu-leadnews-feign-api\src\main\java\com\shiqu\apis\wemedia\IWemediaClient.java
+D:\news\shiqu-leadnews\shiqu-leadnews-feign-api\src\main\java\com\shiqu\apis\article\IArticleClient.java
+D:\news\shiqu-leadnews\shiqu-leadnews-feign-api\src\main\java\com\shiqu\apis\article\fallback\IArticleClientFallback.java

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-test/es-init/es-init.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-test/es-init/es-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-test/freemarker-demo/freemarker-demo.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-test/freemarker-demo/freemarker-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-wemedia/heima-leadnews-wemedia.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-wemedia/heima-leadnews-wemedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-test/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-test/kafka-demo/kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-test/minio-demo/minio-demo.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-test/minio-demo/minio-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-test/mongo-demo/mongo-demo.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-test/mongo-demo/mongo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-basic/shiqu-file-starter/shiqu-file-starter.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-basic/shiqu-file-starter/shiqu-file-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews.iml" filepath="$PROJECT_DIR$/shiqu-leadnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-gateway/shiqu-leadnews-admin-gateway/shiqu-leadnews-admin-gateway.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-gateway/shiqu-leadnews-admin-gateway/shiqu-leadnews-admin-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-gateway/shiqu-leadnews-app-gateway/shiqu-leadnews-app-gateway.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-gateway/shiqu-leadnews-app-gateway/shiqu-leadnews-app-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-article/shiqu-leadnews-article.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-article/shiqu-leadnews-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-basic/shiqu-leadnews-basic.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-basic/shiqu-leadnews-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-behavior/shiqu-leadnews-behavior.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-behavior/shiqu-leadnews-behavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-common/shiqu-leadnews-common.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-common/shiqu-leadnews-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-feign-api/shiqu-leadnews-feign-api.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-feign-api/shiqu-leadnews-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-gateway/shiqu-leadnews-gateway.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-gateway/shiqu-leadnews-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-model/shiqu-leadnews-model.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-model/shiqu-leadnews-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-schedule/shiqu-leadnews-schedule.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-schedule/shiqu-leadnews-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-search/shiqu-leadnews-search.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-search/shiqu-leadnews-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-service.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-test/shiqu-leadnews-test.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-test/shiqu-leadnews-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-user/shiqu-leadnews-user.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-service/shiqu-leadnews-user/shiqu-leadnews-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-utils/shiqu-leadnews-utils.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-utils/shiqu-leadnews-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-gateway/shiqu-leadnews-wemedia-gateway/shiqu-leadnews-wemedia-gateway.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-gateway/shiqu-leadnews-wemedia-gateway/shiqu-leadnews-wemedia-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqu-leadnews-test/xxljob-demo/xxljob-demo.iml" filepath="$PROJECT_DIR$/shiqu-leadnews-test/xxljob-demo/xxljob-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+com\shiqu\apis\article\fallback\IArticleClientFallback.class
+com\shiqu\apis\article\IArticleClient.class
+com\shiqu\apis\behavior\IBehaviorClient.class
+com\shiqu\apis\schedule\IScheduleClient.class
+com\shiqu\apis\wemedia\IWemediaClient.class

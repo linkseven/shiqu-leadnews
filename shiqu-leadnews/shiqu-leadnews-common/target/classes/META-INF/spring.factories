@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.shiqu.common.exception.ExceptionCatch,\
+  com.shiqu.common.swagger.SwaggerConfiguration,\
+  com.shiqu.common.swagger.Swagger2Configuration,\
+  com.shiqu.common.aliyun.GreenImageScan,\
+  com.shiqu.common.aliyun.GreenTextScan,\
+  com.shiqu.common.redis.CacheService,\
+  com.shiqu.common.jackson.InitJacksonConfig

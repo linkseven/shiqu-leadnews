@@ -1,0 +1,5 @@
+com\shiqu\file\config\MinIOConfigProperties.class
+com\shiqu\file\service\impl\MinIOFileStorageService.class
+com\shiqu\file\config\MinIOConfig.class
+com\shiqu\file\service\FileStorageService.class
+META-INF\spring-configuration-metadata.json

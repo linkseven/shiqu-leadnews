@@ -1,0 +1,8 @@
+com\shiqu\user\mapper\ApUserRealnameMapper.class
+com\shiqu\user\service\impl\ApUserServiceImpl.class
+com\shiqu\user\config\WebMvcConfig.class
+com\shiqu\user\service\ApUserService.class
+com\shiqu\user\controller\v1\ApUserLoginController.class
+com\shiqu\user\interceptor\AppTokenInterceptor.class
+com\shiqu\user\UserApplication.class
+com\shiqu\user\mapper\ApUserMapper.class
